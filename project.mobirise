@@ -920,16 +920,16 @@
               }
             },
             ".section-content-text B": {
-              "color": "#ffffff"
+              "color": "#f9f295"
             },
             ".section-content-title B": {
-              "color": "#f9f295"
+              "color": "#7fc70c"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
             },
             ".progressbar-title p, .progress_value B": {
-              "color": "#f9f295"
+              "color": "#f7ed4a"
             },
             ".section-content-text": {
               "text-align": "center"
