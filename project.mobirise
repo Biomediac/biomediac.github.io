@@ -30,7 +30,9 @@
       "additionalSetColors": [
         "#7fc70c",
         "#46c70c",
-        "#de8521"
+        "#de8521",
+        "#c9da16",
+        "#abda16"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -699,7 +701,7 @@
               "color": "#f9f295"
             },
             "B": {
-              "color": "#7fc70c"
+              "color": "#abda16"
             }
           },
           "_name": "slider1",
