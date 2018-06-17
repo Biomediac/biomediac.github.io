@@ -1991,11 +1991,14 @@ body {
   z-index: auto;
 }
 .cid-qUlbWOxH3z H2 {
-  text-align: right;
+  text-align: center;
   color: #f9f295;
 }
 .cid-qUlbWOxH3z P {
-  color: #7fc70c;
+  color: #f9f295;
+}
+.cid-qUlbWOxH3z B {
+  color: #46c70c;
 }
 .cid-qUlds2vx8t {
   background-image: url("../../../assets/images/03.jpg");
@@ -2109,10 +2112,10 @@ body {
   }
 }
 .cid-qUldN0UMrn .section-content-text B {
-  color: #f9f295;
+  color: #ffffff;
 }
 .cid-qUldN0UMrn .section-content-title B {
-  color: #7fc70c;
+  color: #f9f295;
 }
 .cid-qUldN0UMrn .mbr-section-title {
   color: #ffffff;

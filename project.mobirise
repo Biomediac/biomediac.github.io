@@ -20,7 +20,7 @@
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Size": "1",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
@@ -692,11 +692,14 @@
               "z-index": "auto"
             },
             "H2": {
-              "text-align": "right",
+              "text-align": "center",
               "color": "#f9f295"
             },
             "P": {
-              "color": "#7fc70c"
+              "color": "#f9f295"
+            },
+            "B": {
+              "color": "#46c70c"
             }
           },
           "_name": "slider1",
@@ -718,20 +721,20 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/use-and-optimization-690x400.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-5",
                 "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "customStyle3": "display-7",
+                "title": "Coming Soon...",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b>Biomedical Information , Analytics and Consultancy Service</b><b>s</b><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "text": "<b>Biomedical Information , Analytics and Consultancy Service</b><b>s</b><b><br></b><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-7\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Coming Soon</a>  ",
                 "overlayOpacity": "0.4"
               },
               {
@@ -742,14 +745,14 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "INFORMATION SYSTEM",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Test Protocol</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Hospital&nbsp;</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Diagnostic Center</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Pharmaceutical Store</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Test Protocol</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Hospital&nbsp;</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Diagnostic Center</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Pharmacy</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/web-development-tips-to-boost-online-sales-1-796x392.jpg",
@@ -769,20 +772,20 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Health care</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Education</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/consultancy-731x585.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/consultancy-copy-731x585.jpg",
+                "active": false,
                 "showButtons": true,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "CONSULTANCY",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Health Insurance</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#slider1-1\" data-toolbar=\"-mbrBtnMove\">Career Counseling</a>"
               }
             ]
@@ -920,10 +923,10 @@
               }
             },
             ".section-content-text B": {
-              "color": "#f9f295"
+              "color": "#ffffff"
             },
             ".section-content-title B": {
-              "color": "#7fc70c"
+              "color": "#f9f295"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
